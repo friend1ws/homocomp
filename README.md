@@ -7,7 +7,7 @@ homopolymer compression program by Rust
 git clone https://github.com/friend1ws/homocomp
 cd homocomp
 cargo build --release
-export PATH=${PATH}:`pwd`
+export PATH=${PATH}:`pwd`/target/release
 ```
 
 ## Run
